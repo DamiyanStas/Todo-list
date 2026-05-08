@@ -1,0 +1,27 @@
+.liItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #c4c4c4;
+    color: #383838;
+    cursor: pointer;
+    font-size: 24px;
+    font-family: Caveat;
+}
+
+.btnDelete {
+    margin-left: 10px;
+    font-family: Caveat;
+    font-size: 24px;
+    font-weight: bold;
+    color: #b6183a;
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+.btnDelete:hover {
+    color: #ff0037;
+}
