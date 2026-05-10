@@ -1,4 +1,7 @@
+
 # Todo List
+
+<img width="1160" height="1089" alt="Todo_list" src="https://github.com/user-attachments/assets/7411eb32-79a9-4ce7-954a-8ecb79cf602e" />
 
 Простой список задач на React.
 
